@@ -1,0 +1,429 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.Cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.baml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.Cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\App.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.baml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojResolveAssemblyReference.cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\App.baml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.Cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\App.baml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.baml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\App.baml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\Content\Settings.txt
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe.config
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.exe
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.pdb
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.dll
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\ProjNet.dll
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+F:\Новая папка\NavigationSystem\NaviSystem\bin\Debug\ProjNet.xml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csprojResolveAssemblyReference.cache
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\App.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\MainWindow.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\App.baml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\MainWindow.baml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\ManualPointWindow.baml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\PointMessageWindow.baml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\RecordingWindow.baml
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.g.resources
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.Cache
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.exe
+F:\Новая папка\NavigationSystem\NaviSystem\obj\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem\bin\Debug\Content\Triangle.png
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\Content\Triangle.png
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\App.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\App.baml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.pdb
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\Content\Triangle.png
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\Content\Settings.txt
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.exe.config
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.exe
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.pdb
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.Date.dll
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\ProjNet.dll
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+F:\NavigationSystem — копия — копия\NaviSystem\bin\Debug\ProjNet.xml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\App.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\MainWindow.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\RecordingWindow.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\App.baml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\MainWindow.baml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\ManualPointWindow.baml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\PointMessageWindow.baml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\RecordingWindow.baml
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.g.resources
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.exe
+F:\NavigationSystem — копия — копия\NaviSystem\obj\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\Content\Triangle.png
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\App.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\App.baml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem\obj\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\Content\Triangle.png
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\App.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\App.baml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem\obj\Debug\NaviSystem.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\Content\Triangle.png
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\Content\Settings.txt
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.exe.config
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.exe
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.Date.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\ProjNet.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\ProjNet.xml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\App.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\RecordingWindow.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\App.baml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\MainWindow.baml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\ManualPointWindow.baml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\PointMessageWindow.baml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\RecordingWindow.baml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.g.resources
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.exe
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\Content\Triangle.png
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\Content\Settings.txt
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.exe.config
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\App.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\ManualPointWindow.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\PointMessageWindow.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\RecordingWindow.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_Content.g.cs
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem_MarkupCompile.lref
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\App.baml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\MainWindow.baml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\ManualPointWindow.baml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\PointMessageWindow.baml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\RecordingWindow.baml
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.g.resources
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.Properties.Resources.resources
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.GenerateResource.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.exe
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem\obj\Debug\NaviSystem.pdb
