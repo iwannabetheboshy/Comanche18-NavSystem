@@ -1,0 +1,106 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\konop\Рабочий стол\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojResolveAssemblyReference.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+F:\NavigationSystem — копия — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavigationSystem!!! — копия\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.DeviceControl.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.DeviceControl\obj\Debug\NaviSystem.DeviceControl.pdb
