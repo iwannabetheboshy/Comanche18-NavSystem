@@ -1,0 +1,64 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\bin\Debug\ProjNet.xml
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CopyComplete
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojResolveAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\ProjNet.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\bin\Debug\ProjNet.xml
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CopyComplete
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\NaviSystem.GIS.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\GeoAPI.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\ProjNet.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\GeoAPI.xml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\bin\Debug\ProjNet.xml
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csprojAssemblyReference.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CoreCompileInputs.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.csproj.CopyComplete
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.GIS\obj\Debug\NaviSystem.GIS.pdb
