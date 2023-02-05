@@ -1,0 +1,48 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+E:\YandexDisk\Работы\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem — копия — копия\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem!!!\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Debug\NaviSystem.Data.csprojAssemblyReference.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Debug\NaviSystem.Data.csproj.CoreCompileInputs.cache
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+D:\WorkSpace\offshore\navigation\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb

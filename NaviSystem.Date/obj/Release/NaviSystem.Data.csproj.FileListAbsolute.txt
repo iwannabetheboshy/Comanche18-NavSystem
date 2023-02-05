@@ -1,0 +1,12 @@
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\bin\Release\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\bin\Release\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Release\NaviSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Release\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Release\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavigationSystem\NaviSystem.Date\obj\Release\NaviSystem.Data.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\bin\Release\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\bin\Release\NaviSystem.Date.pdb
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Release\NaviSystem.Data.csprojAssemblyReference.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Release\NaviSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Release\NaviSystem.Date.dll
+C:\Users\ROV\Desktop\NavSystem\NavigationSystem_NewPackeges_2019\NaviSystem.Date\obj\Release\NaviSystem.Date.pdb

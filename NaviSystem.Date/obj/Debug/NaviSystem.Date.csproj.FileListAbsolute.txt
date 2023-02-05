@@ -1,0 +1,6 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\bin\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.Date\obj\Debug\NaviSystem.Date.pdb
