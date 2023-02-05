@@ -1,0 +1,14 @@
+1-Device:GPS
+PortName:COM9
+BaudRate:4800
+DataBits:8
+PortNameOut:COM10
+BaudRateOut:4800
+2-Device:SonarDyne
+PortName:COM11
+BaudRate:9600
+DataBits:8
+3-Device:WinchCabel
+PortName:COM256
+BaudRate:9600
+DataBits:8
