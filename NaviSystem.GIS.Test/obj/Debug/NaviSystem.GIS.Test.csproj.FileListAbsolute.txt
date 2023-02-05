@@ -1,0 +1,6 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\bin\Debug\NaviSystem.GIS.Test.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\bin\Debug\NaviSystem.GIS.Test.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\obj\Debug\NaviSystem.GIS.Test.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\obj\Debug\NaviSystem.GIS.Test.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\obj\Debug\NaviSystem.GIS.Test.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.GIS.Test\obj\Debug\NaviSystem.GIS.Test.pdb
