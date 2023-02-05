@@ -1,0 +1,16 @@
+﻿<Window x:Class="NaviSystem.RecordingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NaviSystem"
+        mc:Ignorable="d"
+        Title="Начать запись данных" Height="120" Width="300">
+    <Grid Background="#FFCEC7C7" Margin="0,0,0,0">
+        <TextBox Name="textBox" HorizontalAlignment="Left" Height="33" Margin="189,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="78" Background="White" BorderThickness="1" BorderBrush="#FF101011"/>
+        <Label Content="Введите номер погружения" HorizontalAlignment="Left" Height="33" Margin="15,10,0,0" VerticalAlignment="Top" Width="174" BorderThickness="1" BorderBrush="Black" Background="#FF736969"/>
+        <Button Content="Ok" HorizontalAlignment="Left" Height="26" Margin="15,48,0,0" VerticalAlignment="Top" Width="124" Click="Button_Click"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" Height="26" Margin="139,48,0,0" VerticalAlignment="Top" Width="128" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
