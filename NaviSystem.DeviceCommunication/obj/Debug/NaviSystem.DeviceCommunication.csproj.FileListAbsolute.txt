@@ -1,0 +1,8 @@
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\obj\Debug\NaviSystem.DeviceCommunication.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\obj\Debug\NaviSystem.DeviceCommunication.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\bin\Debug\NaviSystem.DeviceCommunication.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\bin\Debug\NaviSystem.DeviceCommunication.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\bin\Debug\NaviSystem.Date.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\bin\Debug\NaviSystem.Date.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\obj\Debug\NaviSystem.DeviceCommunication.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\NavigationSystem\NaviSystem.DeviceCommunication\obj\Debug\NaviSystem.DeviceCommunication.pdb
